@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Virum</h1>
+<h1 align="center">Hello World 👋, I'm Virum</h1>
 <h3 align="center">🧑🏻‍💻 A Machine Learning Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virum9520&label=Profile%20views&color=0e75b6&style=flat" alt="virum9520" /> </p>
 
-- I’m currently pursuing **B.Tech in Computer Science and Data Science**
- 
-- How to reach me 📫 **virumranka@gmail.com**
+- 🔬 I’m pursuing **B.Tech in Computer Science and Data Science**
+  
+- 👨🏻‍💻 I am currently working on **Artificial Intelligence**, **Machine Learning** and **App Development** projects
+  
+- 🗄️ Check out my projects <a href="https://github.com/Virum9520?tab=repositories">here</a>
+
+- 📩 Reach me at **virumranka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virum9520&show_icons=true&locale=en&layout=compact&theme=dark" alt="virum9520" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Virum9520&theme=dark" alt="dwishashah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Virum9520&theme=dark" alt="Virum9520" /></p>
