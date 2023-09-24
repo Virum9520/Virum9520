@@ -10,7 +10,7 @@
   
 - 🗄️ Check out my projects <a href="https://github.com/Virum9520?tab=repositories">here</a>
 
-- 📩 Reach me at **virumranka@gmail.com**
+- 📩 Reach me at **virumranka5503@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
