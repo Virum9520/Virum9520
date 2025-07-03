@@ -4,7 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virum9520&label=Profile%20views&color=0e75b6&style=flat" alt="virum9520" /> </p>
 
-- 🔬 I’m pursuing **B.Tech in Computer Science and Data Science**
+- 🤖 I am pusrsuing my **Masters in Data Science at University of Michigan**
+
+- 🔬 I completed my **B.Tech in Computer Science and Data Science**
   
 - 👨🏻‍💻 I am currently working on **Artificial Intelligence**, **Machine Learning** and **App Development** projects
   
