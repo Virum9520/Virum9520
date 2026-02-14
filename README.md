@@ -5,11 +5,11 @@
 
 - Pusrsuing my **Masters in Data Science at University of Michigan**
 
-- Check out my portfolio <a href="https://github.com/Virum9520?tab=repositories">here</a>
-  
 - I am currently working as a **AI and DS Research Assistant** at the LasisiLab
-  
-- Check out my projects <a href="https://github.com/Virum9520?tab=repositories">here</a>
+
+- Check out my project portfolio <a href="https://www.datascienceportfol.io/virum">here</a>
+
+- Check out all my projects on github <a href="https://github.com/Virum9520?tab=repositories">here</a>
 
 - Reach me at **virum@umich.edu**
 
